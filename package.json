@@ -1,14 +1,14 @@
 {
-  "name": "server",
+  "name": "app",
   "version": "1.0.0",
   "description": "",
-  "main": "./server/serve.js",
+  "main": "/app/serve.js",
   "engines": {
     "node": "14.0.0",
     "npm": "6.14.8"
   },
   "scripts": {
-    "start": "node serve.js"
+    "start": "node /app/serve.js"
   },
   "keywords": [],
   "author": "",
